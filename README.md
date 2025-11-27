@@ -11,8 +11,7 @@ A real-time object detection radar system using Arduino, ultrasonic sensing, and
   <img src="https://img.shields.io/badge/Platform-Arduino-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Processing-green?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square">
-  
+ 
 </p>
 
 ---

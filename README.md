@@ -64,7 +64,4 @@ This project simulates a real-world radar scanning system. The **HC-SR04 Ultraso
 
 ---
 
-## 🔌 Wiring Diagram
-
-Place your diagram inside `Images/wiring.jpg`.
 

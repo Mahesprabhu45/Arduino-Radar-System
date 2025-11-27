@@ -1,0 +1,52 @@
+===========================
+  PROJECT REQUIREMENTS
+===========================
+
+Project: Arduino Radar System
+Board: Arduino Uno
+
+---------------------------
+HARDWARE REQUIREMENTS
+---------------------------
+1 × Arduino Uno
+1 × HC-SR04 Ultrasonic Sensor
+1 × SG90 Micro Servo Motor
+1 × Breadboard (Optional)
+Jumper Wires (Male–Male / Male–Female)
+1 × USB Cable (Arduino Programming + Power)
+(Optional) 5V External Power Supply for Servo
+1 × Laptop/PC (Arduino Upload + Processing GUI)
+
+---------------------------
+SOFTWARE REQUIREMENTS
+---------------------------
+- Arduino IDE
+- Processing IDE (for radar visualization)
+- Arduino USB / Serial driver (CH340 or official driver)
+- COM Port enabled system
+(Optional) Git or GitHub Desktop for version control
+
+---------------------------
+LIBRARIES REQUIRED
+---------------------------
+Arduino:
+→ Servo.h  (Included by default in Arduino IDE)
+
+Processing:
+→ import processing.serial.* (built-in, no installation needed)
+
+---------------------------
+OPTIONAL ADD-ONS
+---------------------------
+- OLED Display (I2C) for standalone mode
+- ESP8266 / ESP32 Wi-Fi module for IoT functionality
+- LoRa SX1278 module for long-range communication
+- TFT LCD Display for radar visualization without PC
+
+---------------------------
+NOTES
+---------------------------
+- Ensure servo and sensor share a common GND.
+- If servo jitter occurs, external 5V power is recommended.
+
+===========================
